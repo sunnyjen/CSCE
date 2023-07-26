@@ -19,7 +19,20 @@
   },
   {
     "eventPoster": "./assets/event_posters/buns-bun-svgrepo-com.svg",
-    "eventName": "Example 225",
+    "eventName": "event 225",
+    "eventDate": "May 25, 2023",
+    "eventStartTime": "10:00 a.m.",
+    "eventEndTime": "8:00 p.m.",
+    "eventLocation": "Myhal Building Room 45",
+    "eventAddress": "67 Doe Street",
+    "eventDescription": "",
+    "eventTypes": ["Information Session", "Panel", "Career Fair"],
+    "eventRegisterLink": "https://www.google.com/"
+  },
+
+  {
+    "eventPoster": "./assets/event_posters/buns-bun-svgrepo-com.svg",
+    "eventName": "test 225",
     "eventDate": "May 25, 2023",
     "eventStartTime": "10:00 a.m.",
     "eventEndTime": "8:00 p.m.",
@@ -29,4 +42,5 @@
     "eventTypes": ["Information Session", "Panel", "Career Fair"],
     "eventRegisterLink": "https://www.google.com/"
   }
+
 ]
