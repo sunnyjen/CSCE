@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://sunnyjen.github.io/CSCE/"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
